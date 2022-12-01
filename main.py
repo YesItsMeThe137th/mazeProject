@@ -2,7 +2,7 @@ import pygame
 from pygame.locals import *
 from Maze import Maze
 import settings
-
+# this is the first word of august the 137.1th
 def main():
     
     #SETUP
